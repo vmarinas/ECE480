@@ -1,0 +1,2 @@
+C:\Users\marin\source\repos\DirectX 11 Engine VS2019\Debug\DirectX 11 Engine VS2019.exe
+C:\Users\marin\source\repos\DirectX 11 Engine VS2019\Debug\DirectX 11 Engine VS2019.pdb
